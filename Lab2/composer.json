@@ -1,0 +1,16 @@
+{
+    "name": "php2/oop",
+    "description": "LaptrinhHuongDoiTuong",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Qiee523",
+            "email": "huytvpc07617@fpt.edu.vn"
+        }
+    ],
+    "require": {}
+}
